@@ -3,6 +3,9 @@
 The SimpleSwapper contract enables users to swap Ether for ERC-20 tokens using the Uniswap V2 Router. It is designed for safety, performance, and usability, ensuring a fair and efficient token exchange while allowing owner-driven upgrades for enhanced security.
 
 
+## Swapper Contract Address
+- 0x83c1C65548D72B674829669a25453E84aAfca7b9
+
 ## Uniswap V2 Router Address
 - 0xC532a74256D3Db42D0Bf7a0400fEFDbad7694008
 
